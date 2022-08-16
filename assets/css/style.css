@@ -1477,7 +1477,7 @@ section {
     float: left;
     width: 44px;
     height: 44px;
-    background: #e59280;
+    background: #b1a7a5;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -1672,7 +1672,7 @@ section {
 --------------------------------------------------------------*/
 
 #footer {
-    background: #e59280;
+    background: #b1a7a5;
     color: #fff;
     font-size: 14px;
     text-align: center;
